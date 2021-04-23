@@ -6,4 +6,5 @@ public class ScannerEx{
 		String st=sc.next;
 		System.out.println("raita fail gya "+st);
 	}
+	
 }
