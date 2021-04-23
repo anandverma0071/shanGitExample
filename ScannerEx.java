@@ -2,8 +2,8 @@ import java.util.*;
 public class ScannerEx{
 	static Scanner sc= new Scanner(System.in);
 	public static void main(String a[]){
-		System.out.println("whoch is your branch");
+		System.out.println("which is your branch");
 		String st=sc.next;
-		System.out.println(st);
+		System.out.println("my branch is "+st);
 	}
 }
